@@ -1,0 +1,22 @@
+<!doctype html>
+ <html>
+ <head>
+   <meta charset=utf-8>
+   <title>190808130潘柯桦的个人网页-首页</title>
+</head>
+<h1>欢迎来到我的个人网站</h1>
+<body>
+<embed src=rsc/s.mp3 autostart=true loop=true hidden=true height=40 width=30/>s</a>
+<a herf="index.html">首页</a> <a href="about.html">关于我</a> <a href="diary.html">日志</a> <a href="works.html">作品</a> <a href="photo.html">相册</a> <a href="contact.html">联系</a>
+ <body background=images/c.jpg>
+  <img src=images/pan.jpg alt=pan width=300 height=400 align=right>
+ <h2>我的个人简介</h2>
+  <br>姓名：潘柯桦<br>
+  <br>学院：媒体工程学院<br>
+  <br>籍贯：浙江宁波<br>
+  <br>学号：1960808130<br>
+   <br>喜好：运动，不爱江山爱美人，拍照片，学习看书<br>
+
+
+	 </body>
+</html>
